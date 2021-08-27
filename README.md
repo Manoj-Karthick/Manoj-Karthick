@@ -1,7 +1,7 @@
 -  Hi👋, I’m @Manoj-Karthick
 -  I’m interested in 👀 Web Development
 -  I’m currently learning Python and Django
--  You can reach me 📫 https://twitter.com/Manoj_Codes
+-  You can reach me 📫 https://twitter.com/Manoj_Karthick_
 
 <!---
 Manoj-Karthick/Manoj-Karthick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
