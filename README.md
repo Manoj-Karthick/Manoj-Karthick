@@ -1,6 +1,6 @@
 -  Hi👋, I’m @Manoj-Karthick
 -  I’m interested in 👀 Web Development
--  I’m currently learning Python and Django
+-  I’m currently learning .NET Core and Angular
 -  You can reach me 📫 https://twitter.com/Manoj_Karthick_
 
 <!---
