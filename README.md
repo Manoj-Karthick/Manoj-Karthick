@@ -1,6 +1,7 @@
 -  Hi👋, I’m @Manoj-Karthick
 -  I’m interested in 👀 Web Development
--  I’m currently learning .NET Core and Angular
+-  Skills - .NET Core and Angular
+-  I also like to create mobile application using Flutter❤️
 -  You can reach me 📫 https://twitter.com/Manoj_Karthick_
 
 <!---
